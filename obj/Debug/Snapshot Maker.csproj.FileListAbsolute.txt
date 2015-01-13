@@ -1,0 +1,70 @@
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\Snapshot Maker.exe
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\Snapshot Maker.pdb
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Controls.dll
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.dll
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Video.dll
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Imaging.dll
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Math.dll
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.xml
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Controls.xml
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Video.xml
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Imaging.xml
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\bin\Debug\AForge.Math.xml
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\Snapshot_Maker.MainForm.resources
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\Snapshot_Maker.Properties.Resources.resources
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\Snapshot_Maker.SnapshotForm.resources
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\Snapshot Maker.exe
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\Snapshot Maker.pdb
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.1.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.10.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.12.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.13.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.15.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.4.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.8.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource.read.202.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource.read.204.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.write.1.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.write.4.tlog
+C:\Users\murat\Desktop\AForge.NET Framework-2.2.4\Samples - Kopya\Video\Snapshot Maker\obj\Debug\GenerateResource.read.195.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\Snapshot Maker.exe
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\Snapshot Maker.pdb
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\Snapshot Maker.exe
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\Snapshot Maker.pdb
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Controls.dll
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.dll
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Video.DirectShow.dll
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Video.dll
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Imaging.dll
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Math.dll
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.xml
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Controls.xml
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Video.xml
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Video.DirectShow.xml
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Imaging.xml
+D:\Users\ar110961\Desktop\Snapshot Maker\bin\Debug\AForge.Math.xml
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\Snapshot_Maker.MainForm.resources
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\Snapshot_Maker.Properties.Resources.resources
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\Snapshot_Maker.SnapshotForm.resources
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.1.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.10.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.12.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.13.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.15.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.4.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.read.8.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource.read.195.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource.read.202.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource.read.204.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\ResGen.read.1.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.write.1.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-IntelliTrace.write.4.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Users\ar110961\Desktop\Snapshot Maker\obj\Debug\ResGen.write.1.tlog

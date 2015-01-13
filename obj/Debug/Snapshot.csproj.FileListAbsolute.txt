@@ -1,0 +1,17 @@
+D:\sil\signals\Snapshot Maker\bin\Debug\Snapshot Maker.exe
+D:\sil\signals\Snapshot Maker\bin\Debug\Snapshot Maker.pdb
+D:\sil\signals\Snapshot Maker\bin\Debug\AForge.Imaging.dll
+D:\sil\signals\Snapshot Maker\bin\Debug\AForge.Math.dll
+D:\sil\signals\Snapshot Maker\bin\Debug\AForge.xml
+D:\sil\signals\Snapshot Maker\bin\Debug\AForge.Controls.xml
+D:\sil\signals\Snapshot Maker\bin\Debug\AForge.Video.xml
+D:\sil\signals\Snapshot Maker\bin\Debug\AForge.Video.DirectShow.xml
+D:\sil\signals\Snapshot Maker\bin\Debug\AForge.Imaging.xml
+D:\sil\signals\Snapshot Maker\bin\Debug\AForge.Math.xml
+D:\sil\signals\Snapshot Maker\obj\Debug\Snapshot.csprojResolveAssemblyReference.cache
+D:\sil\signals\Snapshot Maker\obj\Debug\Snapshot_Maker.MainForm.resources
+D:\sil\signals\Snapshot Maker\obj\Debug\Snapshot_Maker.Properties.Resources.resources
+D:\sil\signals\Snapshot Maker\obj\Debug\Snapshot_Maker.SnapshotForm.resources
+D:\sil\signals\Snapshot Maker\obj\Debug\Snapshot.csproj.GenerateResource.Cache
+D:\sil\signals\Snapshot Maker\obj\Debug\Snapshot Maker.exe
+D:\sil\signals\Snapshot Maker\obj\Debug\Snapshot Maker.pdb
